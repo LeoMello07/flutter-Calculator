@@ -1,6 +1,8 @@
 # calculator
 
-A new Flutter project.
+I'm learning flutter and that was my first project.
+Just a calculator based on Calculator in macbook.
+Ty all.
 
 ## Getting Started
 
